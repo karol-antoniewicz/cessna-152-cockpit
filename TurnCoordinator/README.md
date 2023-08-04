@@ -4,7 +4,7 @@
 
 ![Turn Coordinator Side](./turnCoordinatorSide.png)
 
-Assembly video: _will follow_
+Assembly video: https://www.youtube.com/watch?v=H4nPsCZAo3s
 
 ### Parts used (affiliate links):
 * SG90 Micro Servo: https://amzn.to/3rXwhOL
